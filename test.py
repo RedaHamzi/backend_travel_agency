@@ -1,0 +1,11 @@
+{"transportation_organization":"",
+"date":"",
+"time":"",
+"date_comback":"",
+"time_comback":"",
+"starting_place":"",
+"destination_place":"",
+"travel_method":"",
+"starting_place_comeback":"",
+"destination_place_comeback":""
+}
